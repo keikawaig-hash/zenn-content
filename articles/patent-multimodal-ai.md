@@ -3,7 +3,7 @@ title: "特許から見る、私たちのマルチモーダルAI ― 「画像�
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "マルチモーダル", "特許", "バーチャルヒューマン", "生成AI"]
-published: false
+published: true
 ---
 
 > 本記事の原文（初出）: https://crystal-method.com/ai-role-play/
