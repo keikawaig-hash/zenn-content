@@ -3,7 +3,7 @@ title: "AI採用は面接官を“置き換える”のではなく“支える�
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "採用", "生成AI", "面接", "HR"]
-published: false
+published: true
 ---
 
 > 本記事の原文（初出）: https://crystal-method.com/ai-hiring/
