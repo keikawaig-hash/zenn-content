@@ -3,7 +3,7 @@ title: "AI面接練習を「作る側」から見た“どう話したか”の�
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "面接", "生成AI", "バーチャルヒューマン", "面接対策"]
-published: false
+published: true
 ---
 
 > 本記事の原文（初出）: https://crystal-method.com/ai-interview-practice/
