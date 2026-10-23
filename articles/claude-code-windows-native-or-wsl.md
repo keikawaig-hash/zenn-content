@@ -3,7 +3,7 @@ title: "Windows の Claude Code：ネイティブ版か WSL 2 かは「プロジ
 emoji: "🤖"
 type: "tech"
 topics: ["ClaudeCode", "Windows", "WSL", "AI"]
-published: false
+published: true
 ---
 
 ## この記事で扱うこと

@@ -3,7 +3,7 @@ title: "Claude Code に最初の依頼を出して、差分を読んでから承
 emoji: "🤖"
 type: "tech"
 topics: ["ClaudeCode", "AI", "初心者向け", "生成AI"]
-published: false
+published: true
 ---
 
 ## この記事で扱うこと
