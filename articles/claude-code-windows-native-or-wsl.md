@@ -70,3 +70,4 @@ irm https://claude.ai/install.ps1 | iex
 
 - [Claude Code を Windows で始める手順（元記事）](https://crystal-method.com/blog/claude-code-windows/)
 - [Claude Code の入門ガイド](https://crystal-method.com/blog/claude-code/)
+
